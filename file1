@@ -1,0 +1,14 @@
+A lot of people from the software industry would know a thing or two about DevOps. However, your understanding of DevOps is incomplete without understanding the DevOps Life cycle. So in this blog, I would certainly try to throw some light on the DevOps Life cycle. After reading this blog you will understand more about the DevOps life process which would be a positive step towards certification.
+
+In this blog we will certainly cover the following topics:
+
+Why DevOps?
+What is DevOps?
+What is the DevOps Life cycle?
+So let us begin our conversation on this remarkable subject.
+
+Why DevOps?
+Before we know what DevOps is, it is extremely important to understand how DevOps came into existence. Before DevOps, we had the waterfall model and an agile model for software development. So let’s have a look at the waterfall model.
+
+Waterfall Model
+The waterfall model can be defined as a sequential process in the development of a system or software that follows a top-down approach. This model was simple and linear. The Waterfall model had numerous stages such as Requirement Definition, Software Design, Implementation, Testing, Verification, and Maintenance.
